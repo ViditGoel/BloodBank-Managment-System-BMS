@@ -1,0 +1,53 @@
+create table Patients(
+patient_id varchar(20) primary key,
+name varchar(30) not null,
+email varchar(50) not null,
+Medicines Varchar(100));
+
+
+
+insert into Patients values("P001", "Nandan Bharti", "500063924@stu.upes.ac.in", "Insulin");
+insert into Patients values("P002", "Priya Darshi", "namanchanda787@gmail.com", "Insulin");
+insert into Patients values("P003", "Abhishek Yadav", "viditgoel9457@gmail.com", "Acetaminophen");
+insert into Patients values("P004", "Rohit Rawat", "500063095@stu.upes.ac.in", "Adderall");
+insert into Patients values("P005", "Yukti Jain", "kastubhasthana2@gmail.com", "Alprazolam");
+insert into Patients values("P006", "Prandhu Chakarvati", "500063924@stu.upes.ac.in", "Citalopram");
+insert into Patients values("P007", "Visesh Garg", "500062929@stu.upes.ac.in", "Lexapro");
+insert into Patients values("P008", "Naman Garg", "namanchanda787@gmail.com", "Omeprazole");
+insert into Patients values("P009", "Yash Sharma", "500063924@stu.upes.ac.in", "Metformin");
+insert into Patients values("P010", "Anuj Pandey", "viditgoel9457@gmail.com", "Naproxen");
+
+
+------------------------NURSE info-----------------------------------------------
+
+
+create table Nurse(
+NurseID varchar(20) primary key,
+name varchar(30) not null,
+Desk_NO. number(2));
+
+
+
+insert into Nurse values("N01", "Prasoon Mehra", 1);
+insert into Nurse values("N02", "Sarvagya Triphati", 2);
+insert into Nurse values("N03", "Aishwaria Sinha", 3);
+insert into Nurse values("N04", "Kastuv Asthana", 1);
+insert into Nurse values("N05", "Sherya Singh", 2);
+insert into Nurse values("N06", "Mehak Gumber", 3);
+
+----------------------------DOCTOR-----------------------------------------------------------------
+
+
+create table Doctor(
+DoctorID varchar(20) primary key,
+name varchar(30) not null,
+Department varchar(30),
+Contact number(10));
+
+
+insert into Doctor values("D01", "Dr. Prashant", "Cardiology", 1234567890);
+insert into Doctor values("D02", "Dr. Tarika", "Cardiology", 1234567891);
+insert into Doctor values("D03", "Dr. Anurag"", "Cardiology", 1234567892);
+insert into Doctor values("D04", "Dr. Prakash", "Cardiology", 1234567893);
+insert into Doctor values("D05", "Dr. Akash", "Cardiology", 1234567894);
+insert into Doctor values("D06", "Dr. Dharti", "Cardiology", 1234567895);
