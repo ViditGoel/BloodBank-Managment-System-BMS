@@ -1,6 +1,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![JAVA](https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png){:height="50%" width="50%"}](https://www.tutorialspoint.com/java/index.htm)
+[![JAVA](https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png)](https://www.tutorialspoint.com/java/index.htm)
 
 # USING LIB OF ML AND ITS ALGO
 
