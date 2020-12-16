@@ -1,5 +1,5 @@
-# SECURE-TRANSFER-OF-COMPRESSED-IMAGE-IN-TACTICAL-INTERNET-BASED-BATTLEGROUND
-Project based on c and python
+# BMS(Blood Bank Management System)
+# PROJECT
 
 <H1 align="center"> PROBLEM STATEMENT </H1>
 
