@@ -7,8 +7,11 @@
 
 
 > *	Most of the blood bank employees do not have a clear idea as to how much units of blood are remaining and which blood group has low units left.
+
 > * There can beam is communication from the management side while contacting the donors.
+
 >	* There can be a situation where the requirements of acertain blood group are not methence the management system needs to be better prepared. for it.
+
 
 
 <p align="center">
